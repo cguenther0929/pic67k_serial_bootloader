@@ -1,0 +1,10 @@
+# List of folders & file names/extensions to be ignored by the git repository.
+
+MPLABX Bootloader.X/funclist
+MPLABX Bootloader.X/l.obj
+MPLABX Bootloader.X/build
+MPLABX Bootloader.X/dist
+MPLABX Bootloader.X/nbproject/*
+!src/MPLABX Bootloader.X/nbproject/configurations.xml
+!src/MPLABX Bootloader.X/nbproject/project.xml
+
